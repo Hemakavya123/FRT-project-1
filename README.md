@@ -82,9 +82,7 @@ This is a web based application developed for health related health based websit
 
 ### Azure healthbot -
 
-![pic8](https://user-images.githubusercontent.com/120080328/208583572-f8c4a4ff-eea4-4827-8263-7e2044479705.png)
-
-
+![pic12](https://user-images.githubusercontent.com/120080328/208587750-8d476783-a71b-4f89-bb84-b1e3494d136f.png)
 
 
 
@@ -94,7 +92,8 @@ This is a web based application developed for health related health based websit
 ### static web apps -
 
 
-![pic10](https://user-images.githubusercontent.com/120080328/208587394-d5547fcd-615c-40ee-837e-ea217beebee3.png)
+![pic11](https://user-images.githubusercontent.com/120080328/208587571-e0437073-4918-4597-ad26-062c9b7fdb8a.png)
+
 
 
 
