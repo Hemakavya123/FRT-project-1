@@ -5,7 +5,7 @@ This is a web based application developed for health related health based websit
 ### This web based Dental Health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-*Project Link* - https://lively-grass-0f0832400.2.azurestaticapps.net
+*Project Link* - https://orange-ground-00bba2500.2.azurestaticapps.net
 
 *Project Demo video link* -
 
@@ -93,7 +93,8 @@ This is a web based application developed for health related health based websit
 
 ### static web apps -
 
-![pic9](https://user-images.githubusercontent.com/120080328/208583907-fcb6a884-1cfa-4f87-a8e6-2e9b9d86ff15.png)
+
+![pic10](https://user-images.githubusercontent.com/120080328/208587394-d5547fcd-615c-40ee-837e-ea217beebee3.png)
 
 
 
